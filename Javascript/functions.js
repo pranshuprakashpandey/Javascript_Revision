@@ -17,4 +17,4 @@ const func1 = function(name){
     console.log(`how u doin ${name}`);
 };
 
-func1('Disha'); 
+func1('Disha');
